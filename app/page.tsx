@@ -4,16 +4,16 @@ import { Section } from "@/components/section";
 
 const services = [
   {
-    title: "SAP Services",
-    text: "Implementation support, enhancements, integration thinking, and practical business-aligned SAP delivery.",
+    title: "SAP Consulting",
+    text: "SAP advisory, implementation support, solution design, and transformation delivery for practical business outcomes.",
   },
   {
-    title: "Medical Website Solutions",
-    text: "Premium, modern websites for clinics and healthcare businesses with a simple, trustworthy user experience.",
+    title: "Healthcare system transformation",
+    text: "Healthcare-focused web and digital transformation solutions for private sector clients who need a clean, modern, trustworthy presence.",
   },
   {
-    title: "Clinic Simplified Management",
-    text: "Lean digital workflows, service design, and scalable website foundations for clinics and healthcare operators.",
+    title: "Clinic management softwares",
+    text: "Clinic software thinking, workflow modernisation, and digital presence uplift for growing healthcare businesses.",
   },
 ];
 
@@ -26,9 +26,10 @@ export default function HomePage() {
             <span className="eyebrow">Official website starter</span>
             <h1>Build business systems that actually work.</h1>
             <p className="hero-copy">
-              Acube Management delivers SAP services, medical website
-              solutions, and streamlined digital delivery for clinic-focused
-              businesses.
+              Acube Management is a boutique Australian company specialising in
+              SAP services for government digital transformation initiatives and
+              healthcare-focused web solutions for private sector clients
+              worldwide.
             </p>
             <div className="hero-actions">
               <Link href="/services" className="button button-primary">
@@ -43,9 +44,9 @@ export default function HomePage() {
           <div className="hero-panel card">
             <p className="hero-panel-label">Core focus</p>
             <ul className="hero-list">
-              <li>SAP consulting and delivery support</li>
-              <li>Medical website business solutions</li>
-              <li>Clinic systems and digital presence</li>
+              <li>SAP consulting and implementation</li>
+              <li>Healthcare digital transformation solutions</li>
+              <li>Clinic systems modernisation and digital presence transformation</li>
               <li>Featured client work: Smile &amp; Care</li>
             </ul>
           </div>

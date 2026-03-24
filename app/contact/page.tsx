@@ -4,23 +4,30 @@ import { Section } from "@/components/section";
 export default function ContactPage() {
   return (
     <Section
-      eyebrow="Contact"
-      title="Replace this with your real business details"
-      description="Because this starter is static, contact details are hardcoded for now. Update them directly in this file."
+      eyebrow="Contact Us"
+      title="Please provide your details and we’ll put you in touch with the right person"
+      description=""
     >
       <WidePanel>
         <div className="contact-grid">
           <div>
-            <h3>Acube Management</h3>
-            <p>Email: your-email@example.com</p>
-            <p>Phone: +61 ...</p>
-            <p>Location: Australia</p>
+            <h3>Australia</h3>
+            <p>
+              <a href="mailto:acube@gmail.com" className="text-link">
+                acube@gmail.com
+              </a>
+            </p>
+            <p>
+              <a href="tel:0424664131" className="text-link">
+                0424664131
+              </a>
+            </p>
           </div>
           <div>
-            <h3>Suggested next upgrade</h3>
+            <h3>Contact prompt</h3>
             <p>
-              Once the site is approved, you can add a contact form using
-              Supabase, Formspree, Netlify Forms, or another lightweight backend.
+              Please provide your details and we&apos;ll put you in touch with the
+              right person.
             </p>
           </div>
         </div>

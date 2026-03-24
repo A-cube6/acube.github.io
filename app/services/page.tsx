@@ -10,16 +10,16 @@ export default function ServicesPage() {
     >
       <div className="three-col-grid">
         <FeatureCard
-          title="SAP Services"
-          text="Support for implementation, enhancements, functional and technical delivery, and practical problem solving around SAP-focused business needs."
+          title="SAP Consulting"
+          text="Support for consulting, implementation, enhancements, functional and technical delivery, and practical problem solving around SAP-led transformation needs."
         />
         <FeatureCard
-          title="Medical Website Business"
-          text="Website design and delivery for clinics and medical businesses that need a clean, premium public presence with simple maintenance."
+          title="Healthcare system transformation"
+          text="Website and digital transformation solutions for clinics and healthcare businesses that need a clean, premium public presence with simple maintenance."
         />
         <FeatureCard
-          title="Clinic Simplistic Management"
-          text="Digital structure thinking for appointment-oriented and clinic-facing businesses where operational simplicity matters."
+          title="Clinic management softwares"
+          text="Digital structure thinking, clinic software uplift, and operational simplification for appointment-oriented healthcare businesses."
         />
       </div>
     </Section>
