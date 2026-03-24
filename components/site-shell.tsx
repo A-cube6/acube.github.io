@@ -39,8 +39,11 @@ export function SiteShell({ children }: { children: ReactNode }) {
           <div>
             <h3>Acube Management</h3>
             <p>
-              Practical digital delivery for SAP services, medical websites,
+              Practical digital delivery for SAP services, healthcare transformation,
               and clinic-focused business systems.
+            </p>
+            <p>
+              <a href="mailto:mailtoacube@gmail.com">mailtoacube@gmail.com</a>
             </p>
           </div>
 

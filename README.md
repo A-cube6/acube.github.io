@@ -139,3 +139,8 @@ If you keep hosting on GitHub Pages, use Supabase mainly from the client side or
 3. Add screenshots or logos later if needed inside `/public`
 4. Update the Client Work section with Smile & Care details
 5. Push to GitHub and enable Pages
+
+
+## Contact form
+
+The contact page is wired to FormSubmit so the static GitHub Pages site can forward enquiries to `mailtoacube@gmail.com` without its own backend. The first submission may trigger a one-time email confirmation for that inbox before forwarding starts.
