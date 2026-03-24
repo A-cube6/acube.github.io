@@ -13,8 +13,8 @@ export default function ContactPage() {
           <div>
             <h3>Australia</h3>
             <p>
-              <a href="mailto:acube@gmail.com" className="text-link">
-                acube@gmail.com
+              <a href="mailto:mailtoacube@gmail.com" className="text-link">
+                mailtoacube@gmail.com
               </a>
             </p>
             <p>
