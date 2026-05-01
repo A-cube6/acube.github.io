@@ -18,7 +18,7 @@ export function SiteShell({ children }: { children: ReactNode }) {
             <span className="brand-mark-dot" />
             <span>
               <strong>Acube Management</strong>
-              <small>SAP • Medical Web • Delivery</small>
+              <small>SAP • Medical Industry • Digital Solution</small>
             </span>
           </Link>
 
